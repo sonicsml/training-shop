@@ -1,1 +1,1 @@
-# training-shpp
+# training-shop
